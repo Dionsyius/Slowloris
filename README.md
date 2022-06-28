@@ -38,7 +38,7 @@ If you want to clone using git instead of pip, here's how you do it.
 
 * `git clone https://github.com/Dionsyius/Slowloris.git`
 * `cd slowloris`
-* `python3 slowloris.py example.com`
+* `python3 main.py example.com`
 
 ### SOCKS5 proxy support
 
